@@ -1,0 +1,27 @@
+
+.main{
+    /* background-color: azure; */
+    
+}
+
+.main .btn{
+    border: 3px solid yellow;
+    color: blueviolet;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.main .btn:hover{
+    border: 3px solid purple;
+    
+}
+
+.main h1 h2{
+         color: yellow;
+}
+
+span{
+    color: blueviolet;
+}
+
+

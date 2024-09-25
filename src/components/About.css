@@ -1,0 +1,79 @@
+
+h1{
+    color: blueviolet;
+    
+}
+p{
+    color: cadetblue;
+    margin: 200px;
+    font-size: 30px;
+}
+h2{
+    color: rgb(142, 139, 135);
+}
+span{
+    color: blueviolet;
+} 
+ 
+
+
+
+
+
+.box {
+    border: 1px solid yellow; /* Example border */
+    padding: 15px; /* Padding inside the box */
+    /* background-color: #f9f9f9; */
+    border-radius: 5px; /* Rounded corners */
+
+    height: 250px;
+    width: 560px;
+    justify-content: right;
+
+}
+
+.box:hover{
+  border: 1px solid purple; /* Border around the box */
+     
+
+}
+ .box .box-heading{
+    margin-top: 30px;
+    color: blueviolet;
+    font-size: 20px;
+ }
+ .box .box-heading span{
+    color: yellow;
+    font-size: 18px;
+ }
+
+ .box .box-score{
+    color: yellow;
+ }
+
+ .box .box-score span{
+    color: blueviolet;
+ }
+ .box button{
+    background-color: black;
+    color: yellow;
+    margin-left: 50px;
+ }
+
+ .box .box-text{
+    margin: 0%;
+    padding: 0%;
+    font-size: 20px;
+ }
+
+ .box button:hover{
+    background-color: black;
+    color: blueviolet;
+    
+    border: 3px solid yellow;
+
+    
+
+
+
+ }

@@ -1,0 +1,42 @@
+*{
+    background-color: black;
+}
+
+.space{
+    color: yellow;
+    padding: 10px;
+    font-weight: 400;
+    font-size: 25px;
+    justify-content: end;
+}
+.container-fluid{
+ height: 90px;
+
+}
+.nav-item{
+    display: flex;
+    margin: 3px;
+
+}
+
+.nav-item:hover{
+    border: 2px solid yellow;
+    border-radius: 50px;
+    
+    
+}
+
+.hm{
+    color: yellow;
+}
+.hm:hover{
+    color: purple;
+    /* border: 2px solid yellow; */
+
+    
+}
+
+
+
+
+

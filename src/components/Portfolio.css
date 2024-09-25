@@ -1,0 +1,28 @@
+.card-container {
+    display: flex;
+    justify-content: space-between; /* Space between the cards */
+    gap: 20px; /* Optional: Adds space between the cards */
+    margin-top: 100px;
+    margin-left: 75px;
+    margin-right:75px ;
+  }
+  
+  .card {
+    flex: 1; /* Allows the cards to adjust their size evenly */
+    margin: 10px; /* Adds some margin around the cards */
+  }
+   img{
+    height: 350px;
+    width: 50px;
+   }
+
+   .card-body .card-title{
+    color: blueviolet;
+    font-size: 20px;
+   }
+
+   .card-body .card-text{
+       color: bisque;
+       margin: 0%;
+       padding: 0%;
+   }

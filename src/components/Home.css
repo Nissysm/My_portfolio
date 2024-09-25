@@ -1,0 +1,16 @@
+
+
+.content{
+    display: block;
+    align-items: center;
+    justify-content: center;
+    margin-top: 250px;
+}
+
+.content h1{
+    color: blueviolet;
+}
+
+.btn .button .btn1{
+    margin: 30px;
+}
